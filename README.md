@@ -31,6 +31,18 @@ decisions
 - Excellent customer service skills, ensuring client satisfaction through proactive communication and problem resolution.
 
 ## Projects
+College Helpdesk Chatbot
+ProductionAI-powered chatbot streamlining college helpdesk queries on admissions, courses, schedules, and events. Built with FastAPI and MongoDB, featuring a modular NLP pipeline, web UI, and admin dashboard for efficient student support.  
+Key Features  
+
+Responsive web interface for user queries  
+Admin dashboard with session and message analytics  
+Scalable REST API and webhook support for integrations  
+Keyword-based NLP for intent detection and FAQ retrieval
+
+Technologies  
+
+Python, FastAPI, MongoDB (Motor), Pydantic, HTML/CSS/JS
 
 
 ## Certifications
