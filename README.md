@@ -12,7 +12,7 @@
 
 ## Work Experience
 **AI/ML Engineer @ Ventois.INC (_Sep 2023 - Present_)**
-- End-to-end experience in developing AL/ML solutions, encompassing data processing, model training, and deployment across various use cases.
+- End-to-end experience in developing AI/ML solutions, encompassing data processing, model training, and deployment across various use cases.
 - Expertise in designing and implementing intelligent automation solutions, including creating an intelligent lead AI to automate complex workflows using LangGraph
 - Developed LUNA, an AI-powered chatbot with RAG-based responses
 - Skilled in enabling natural language querying of databases and optimizing database interactions using tools like DSPy across multiple platforms.
@@ -31,22 +31,22 @@ decisions
 - Excellent customer service skills, ensuring client satisfaction through proactive communication and problem resolution.
 
 ## Projects
-College Helpdesk Chatbot
+**College Helpdesk Chatbot**
 ProductionAI-powered chatbot streamlining college helpdesk queries on admissions, courses, schedules, and events. Built with FastAPI and MongoDB, featuring a modular NLP pipeline, web UI, and admin dashboard for efficient student support.  
-Key Features  
 
-Responsive web interface for user queries  
-Admin dashboard with session and message analytics  
-Scalable REST API and webhook support for integrations  
-Keyword-based NLP for intent detection and FAQ retrieval
+_**Key Features**_ 
+- Responsive web interface for user queries 
+- Admin dashboard with session and message analytics  
+- Scalable REST API and webhook support for integrations  
+- Keyword-based NLP for intent detection and FAQ retrieval
 
-Technologies  
+_**Technologies** _ 
 
 Python, FastAPI, MongoDB (Motor), Pydantic, HTML/CSS/JS
 
 
 ## Certifications
-AWS Certified Machine Learning Engineer – Associate
-Complete Data Science, Machine Learning,DL,NLP Bootcamp by Udemy
-Complete Agentic AI Bootcamp With LangGraph and Langchain by Udemy
-AI Python for Beginners by DeepLearning.AI
+- AWS Certified Machine Learning Engineer – Associate
+- Complete Data Science, Machine Learning,DL,NLP Bootcamp by Udemy
+- Complete Agentic AI Bootcamp With LangGraph and Langchain by Udemy
+- AI Python for Beginners by DeepLearning.AI
