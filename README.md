@@ -7,8 +7,8 @@
 ☁️Cloud & Infrastructure: AWS, Model Deployment, CI/CD, Cloud Computing, MLOps
 
 ## Education
-- Masters., Computer and information science | Western illinios university (_May 2023_)								       		          		
-- B.Tech., Electronics and communication engineering  | Vemu institute of technology (_May 2017_)
+- Masters., Computer and Information Science | Western Illinios University (_May 2023_)								       		          		
+- B.Tech., Electronics and Communication Engineering  | Vemu Institute of Technology (_May 2017_)
 
 ## Work Experience
 **AI/ML Engineer @ Ventois.INC (_Sep 2023 - Present_)**
