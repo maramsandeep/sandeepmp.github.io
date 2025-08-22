@@ -40,7 +40,7 @@ _**Key Features**_
 - Scalable REST API and webhook support for integrations  
 - Keyword-based NLP for intent detection and FAQ retrieval
 
-_**Technologies** _ 
+_**Technologies**_
 
 Python, FastAPI, MongoDB (Motor), Pydantic, HTML/CSS/JS
 
