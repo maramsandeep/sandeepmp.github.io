@@ -32,7 +32,7 @@ decisions
 
 ## Projects
 **College Helpdesk Chatbot**
-ProductionAI-powered chatbot streamlining college helpdesk queries on admissions, courses, schedules, and events. Built with FastAPI and MongoDB, featuring a modular NLP pipeline, web UI, and admin dashboard for efficient student support.  
+  AI-powered chatbot streamlining college helpdesk queries on admissions, courses, schedules, and events. Built with FastAPI and MongoDB, featuring a modular NLP pipeline, web UI, and admin dashboard for efficient student support.  
 
 _**Key Features**_ 
 - Responsive web interface for user queries 
